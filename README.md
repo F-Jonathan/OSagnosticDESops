@@ -1,3 +1,18 @@
+**Instructions for how I installed Sagemath on windows 10 from binaries:**
+1. Go to the following link https://www.sagemath.org/download-windows.html
+2. Click on a download server close to your location
+3. Select the version of SageMath that you are interested in
+4. Once the download of the installed file finishes, run the file
+5. Click next, then click "I accept the agreement" and click next
+6. Choose which user to install for then click next
+7. Select the home directory of SageMath, click next
+8. Based on this home directory a destination location is suggested, click next
+9. Make sure SageMath Core and SageMath HTML Documentation are selected, click next
+10. Choose if you want start menu icons and desktop icons, click next
+11. Click install
+12. Wait until finished, then click finish 
+
+
 # OSagnosticDESops
 
 This is a repository for instructions on how to do Operating System Agnostic Data Engineering Science Operations, especially for students of Mathematics, Computer Science, Statistics, Data Science and Data Engineering.
